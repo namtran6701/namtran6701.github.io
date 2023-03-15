@@ -1,4 +1,10 @@
-body {
+div {
     color: red;
     text-align: left;
+}
+
+h1 {
+    color: blue;
+    background-color: greenyellow;
+
 }
